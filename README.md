@@ -1,4 +1,4 @@
-### Olá! 👋 Bem-vindo ao meu GitHub!
+# Olá! 👋 Bem-vindo ao meu GitHub!
 Sou quase engenheiro químico, estudante na Universidade Feevale e apaixonado por unir meio ambiente e ciência de dados para criar impactos positivos na sociedade. Meu objetivo é explorar soluções inovadoras que combinem ciência, sustentabilidade e tecnologia de dados.
 
 ## 🛠 Minhas Ferramentas:
